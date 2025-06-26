@@ -2,3 +2,17 @@
     background-color: black;
     color: white;
 }
+
+.Header{
+    width: 100%;
+}
+
+.AboutHeader{
+    font-size: larger;
+}
+
+.Main{
+    width: 100%;
+    height: 100%;
+}
+
