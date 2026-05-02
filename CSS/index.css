@@ -1,0 +1,40 @@
+body{
+    overflow-x: hidden;
+    color:rgb(255, 255, 255);
+    background-color: rgb(9, 9, 9);
+    font-family:sans-serif
+}
+
+.Section1{
+    width:100vw;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(9, 9, 9);
+}
+
+.SocialImage{
+    height: 60px;
+    filter: invert(33%) sepia(0%) saturate(122%) hue-rotate(193deg) brightness(100%) contrast(82%);
+}
+
+.SocialImage:hover{
+    filter: invert(100%) sepia(28%) saturate(2%) hue-rotate(77deg) brightness(109%) contrast(101%);
+}
+
+.SocialLink{
+    height: 100%;
+}
+
+.Socials{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-right: 15px;
+}
+
+.Section1Header{
+    text-align: center;
+    font-size: 100px;
+}
