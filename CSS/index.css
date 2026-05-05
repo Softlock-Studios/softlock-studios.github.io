@@ -17,6 +17,7 @@ body{
 .SocialImage{
     height: 60px;
     filter: invert(33%) sepia(0%) saturate(122%) hue-rotate(193deg) brightness(100%) contrast(82%);
+    transition: filter 0.25s;
 }
 
 .SocialImage:hover{
