@@ -1,3 +1,7 @@
 <!DOCTYPE html>
 
-<p>testing trailing slashes pls work</p>
+<html>
+    <body>
+        <p>testing trailing slashes pls work</p>
+    </body>
+</html>
